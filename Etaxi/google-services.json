@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "666052157795",
+    "firebase_url": "https://etaxi-e2ecd.firebaseio.com",
+    "project_id": "etaxi-e2ecd",
+    "storage_bucket": "etaxi-e2ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666052157795:android:9729d40c20f84f04",
+        "android_client_info": {
+          "package_name": "com.zootopia.abdelbari.etaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666052157795-1rhr8j8ssscb0kv2bioqd74d6ifepfut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKzftloZCP6L9G41elRWmSFx7K6FtZD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
